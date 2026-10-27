@@ -1,0 +1,2 @@
+Iconsax Bold: Category, RowVertical, SearchNormal1. Extracted from iconsax-react 0.0.8. https://www.npmjs.com/package/iconsax-react
+Shopping bag: supplied by project owner.
